@@ -1,0 +1,7 @@
+.app { padding: 24px; font-family: system-ui, sans-serif; min-height: 100vh; }
+.app.dark { background: #1e1e1e; color: #eee; }
+button { margin: 0 8px 12px 0; padding: 6px 12px; cursor: pointer; }
+input { padding: 6px; width: 260px; margin-bottom: 16px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #8884; padding: 4px 8px; text-align: left; }
+tr:hover { background: #8882; }
